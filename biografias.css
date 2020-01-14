@@ -1,13 +1,12 @@
 body {
     padding: 25px;
     box-shadow: 0px 0px 10px black;
-    background-color: dimgrey;
-    background: url("../IMG/fundo.jpg");
+    background-color: #212121;
 }
 
 div#interface {
     width: 1200px;
-    background-color: black;
+    background-color: #38393C;
     background-position: center;
     padding: 20px 20px 20px 20px;
     box-shadow: 0px 0px 10px black;
@@ -18,7 +17,7 @@ div#interface {
 .header {
     overflow: hidden;
     width: 1200px;
-    background-color: black;
+    background-color: #B6B6B6;
     padding: 20px 20px 20px 20px;
     background-repeat: no-repeat;
     background-position: center;
@@ -34,15 +33,15 @@ div#interface {
     font-size: 50px;
     font-weight: bold;
     font-style: oblique;
-    color: white;
-    text-shadow: 1px 1px 1px black;
+    color: #212121;
+    text-shadow: 1px 1px 1px #212121;
     font-family: American Typewriter, serif;
 }
   
 .menu {
     float: right;
     width: 1200px;
-    background-color: white;
+    background-color: #212121;
     text-align: right;
     box-shadow: 0px 0px 10px black;
     border-radius: 10px 20px;
@@ -54,9 +53,9 @@ div#interface {
 }
   
 .menu a {
-    color: #000;
+    color: #B6B6B6;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 22px;
     text-align: right;
     text-decoration: none;
     font-family: American Typewriter, serif;
@@ -68,14 +67,14 @@ div#interface {
 }
 
 .menu a:hover {
-    background-color: dimgray;
+    background-color: #727272;
     border-radius: 10px 20px;
 }
 
 .bio {
     text-align: justify;
     text-indent: 50px;
-    color: black;
+    color: #212121;
     font-family: American Typewriter, serif;
     font-size: 20px;
     margin: 0px 20px 0px 20px;
@@ -84,7 +83,7 @@ div#interface {
 .textos {
     position: relative;
     display: block;
-    background-color: white;
+    background-color: #B6B6B6;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.699);
     padding: 5px 20px 5px 20px;
     border-radius: 10px 20px;
@@ -98,8 +97,8 @@ figure.foto {
 
 .nome {
     text-align: left;
-    color: black;
-    background-color: white;
+    color: #B6B6B6;
+    background-color: #212121;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.699);
     font-family: American Typewriter, serif;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.411);
@@ -120,7 +119,7 @@ footer {
   
 .footer p {
     text-align: center;
-    color: black;
+    color: #727272;
     font-family: American Typewriter, serif;
     font-size: 15px;
 }
